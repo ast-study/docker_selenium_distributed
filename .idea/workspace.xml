@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bff8433-e05a-41b4-a5e5-884c204b64b4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/test_search/parallel_test_run.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test_search/sequential_test_run.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/docker_selenium_distributed.iml" afterPath="$PROJECT_DIR$/.idea/docker_selenium_distributed.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/helloworld/test.py" afterPath="$PROJECT_DIR$/helloworld/test.py" />
-      <change beforePath="$PROJECT_DIR$/test_search/docker-compose.yml" afterPath="$PROJECT_DIR$/test_search/docker-compose.yml" />
       <change beforePath="$PROJECT_DIR$/test_search/test_search.py" afterPath="$PROJECT_DIR$/test_search/test_search.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test_search.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test_search.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_search/test_search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="e#47#58#0" expanded="true" />
               </folding>
@@ -47,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parallel_test_run.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="parallel_test_run.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_search/parallel_test_run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="323">
               <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
               <folding />
             </state>
@@ -373,16 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_search/test_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding>
-            <element signature="e#47#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_search/sequential_test_run.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -393,9 +377,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_search/parallel_test_run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="323">
           <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_search/test_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -12,12 +12,13 @@ from selenium.webdriver.common.keys import Keys
 class GithubSearchTest(unittest.TestCase):
 
     def setUp(self):
-        self.browser = webdriver.Chrome()
-        # caps = {'browserName': os.getenv('BROWSER', 'chrome')}
-        # self.browser = webdriver.Remote(
-        #     command_executor='http://localhost:4444/wd/hub',
-        #     desired_capabilities=caps
-        # )
+        #self.browser = webdriver.Chrome()
+
+        caps = {'browserName': os.getenv('BROWSER', 'chrome')}
+        self.browser = webdriver.Remote(
+            command_executor='http://localhost:4444/wd/hub',
+            desired_capabilities=caps
+        )
 
     def test_github_repo_search(self):
         browser = self.browser
